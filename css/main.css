@@ -8,6 +8,8 @@
 	margin-top: 52px;
 }
 
+
+
 h2, p {
 	text-align: center;
 }
@@ -31,6 +33,16 @@ h2, p {
     background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, black));
 }
 
+.col-md-offset-change {
+	margin-left: 26.4%;
+}
+
+
+#spacer {
+	padding-top: 5px;
+	color: grey;
+	font-size:30px;
+}
 #logo-header {
 	background-image: url('http://placehold.it/1024x255');
 	background-repeat: none;
@@ -38,6 +50,7 @@ h2, p {
 	background-size: contain;
 	height: 100px;
 	width: 100vw;
+	font-size: 30px
 }
 
 #check-buff {
