@@ -1,0 +1,46 @@
+.carousel img {
+	min-height: 300px;
+	max-height: 500px;
+	min-width: 100vw;
+}
+
+.sec2-buffer{
+	margin-top: 52px;
+}
+
+h2, p {
+	text-align: center;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.fa-resize {
+	font-size: 1.7em;
+}
+
+#search-buff {
+	margin-top: 5px;
+}
+
+.divider-line { 
+    margin: 25px 0;
+    height: 1px;
+    background: black;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, black));
+}
+
+#logo-header {
+	background-image: url('http://placehold.it/1024x255');
+	background-repeat: none;
+	background-position: center;
+	background-size: contain;
+	height: 100px;
+	width: 100vw;
+}
+
+#check-buff {
+	margin-top: 60px;
+	margin-bottom: 80px;
+}
